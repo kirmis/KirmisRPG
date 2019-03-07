@@ -7,7 +7,7 @@ namespace CharacterLibrary
         private int _strength;
         public int Strength
         {
-            get { return _strenth; }
+            get { return _strength; }
             set
             {
                 if (value >= 3 && value <= 18)
